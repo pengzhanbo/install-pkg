@@ -37,7 +37,7 @@
     "prepublishOnly": "pnpm build",
     "dev": "pnpm build --watch",
     "build": "tsup src/index.ts --format cjs,esm --dts --no-splitting",
-    "release": "bumpp --commit --push --tag && pnpm publish",
+    "release": "bumpp --commit --push --tag && pnpm publish --access public",
     "lint": "eslint ."
   },
   "dependencies": {
