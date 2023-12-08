@@ -1,7 +1,7 @@
 {
   "name": "@pengzhanbo/install-pkg",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@8.11.0",
   "description": "Install package programmatically.",
   "author": "pengzhanbo <q942450674@outlook.com> (https://github.com/pengzhanbo)",
